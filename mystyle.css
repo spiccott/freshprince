@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	width:800px;
+	margin: 0 auto;
+	font-family: 'Open-Sans'
+}
+
+h1 {
+	color:red;
+}
